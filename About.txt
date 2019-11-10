@@ -1,3 +1,5 @@
 Aplikasi Nota Dinas :
 - Membuat Login Form
-- Membuat Level User
+- Membuat Database Users
+- Membuat Level Users
+- Membuat Password Encryption
