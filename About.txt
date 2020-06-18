@@ -4,3 +4,6 @@ Aplikasi Nota Dinas :
 - Password Encryption
 - Level Users
 - Menu Form
+- GroupA menambahkan Menu Global Akad
+  - Berasarkan NOkontrak
+  - Berdasarkan Cif
