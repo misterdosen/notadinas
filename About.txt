@@ -4,6 +4,8 @@ Aplikasi Nota Dinas :
 - Password Encryption
 - Level Users
 - Menu Form
-- Formnya Harus Warna Biru
+- GroupA menambahkan Menu Global Akad dan Group B Formnya Harus Warna Biru
+  - Berasarkan NOkontrak
+  - Berdasarkan Cif
   - Biru Dongker Submit Tanpa Approval
   - Biru Muda dengan Approval
