@@ -4,3 +4,6 @@ Aplikasi Nota Dinas :
 - Password Encryption
 - Level Users
 - Menu Form
+- Formnya Harus Warna Biru
+  - Biru Dongker Submit Tanpa Approval
+  - Biru Muda dengan Approval
